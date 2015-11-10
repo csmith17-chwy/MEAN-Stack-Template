@@ -9,4 +9,4 @@ Template to be used as:
   -Bare-bones Structure
   -Build Tools:
     -Bower - Package Management
-    -Gulp - Task Manager
+    -Gulp/Grunt - Task Manager (*Not Installed)
